@@ -4,6 +4,8 @@ The dashboard helps HR teams and management identify workforce patterns, attriti
 
 <img width="1211" height="647" alt="Screenshot 2025-12-24 at 6 32 23 PM" src="https://github.com/user-attachments/assets/ed8fad28-1926-479e-b801-3cfaf1913223" />
 
+
+
 Dashboard Features:
 
 KPI Summary Cards – Displays total employees, active employees, attrition count, attrition rate, and average age at a glance.
