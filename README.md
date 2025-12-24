@@ -6,7 +6,7 @@ The dashboard helps HR teams and management identify workforce patterns, attriti
 
 
 
-## ✨ Dashboard Features
+## Dashboard Features
 
 - **KPI Summary Cards** – Displays total employees, active employees, attrition count, attrition rate, and average age at a glance.  
 - **Education Filter** – Allows dynamic filtering of the entire dashboard based on employee education background.  
